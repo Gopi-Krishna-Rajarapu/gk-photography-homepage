@@ -1,0 +1,6 @@
+# GK Photography
+# Static HTML/CSS project 
+
+# External frontend resources used by index.html:
+# Google Fonts - Poppins
+# Font Awesome 6.4.0
